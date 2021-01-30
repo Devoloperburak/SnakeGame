@@ -1,0 +1,18 @@
+* {
+    margin: 10px;
+    padding: 0;
+}
+
+.databig {
+    color: red;
+    font-size: 1.2rem;
+}
+button {
+    margin: 10px;
+    outline: 0;
+    border: none;
+    background: black;
+    color: white;
+    padding: 10px;
+    border-radius: 2px;
+}
